@@ -37,16 +37,6 @@ class HeaderRight extends React.Component {
                         </List.Content>
                     </List.Item>
                     <List.Item>
-                        <List.Icon name="cloud" size="large" />
-                        <List.Content>
-                            <h4>
-                                <a href="http://certification.salesforce.com/certification-detail?conId=0034A00002qOz9SQAS">
-                                    Certification
-                                </a>
-                            </h4>
-                        </List.Content>
-                    </List.Item>
-                    <List.Item>
                         <List.Icon name="linkify" size="large" />
                         <List.Content>
                             <h4>
